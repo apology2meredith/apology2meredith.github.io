@@ -238,7 +238,7 @@ header nav a {
 	width: 100%;
 	height: 100vh;
 	top: 0;
-	background: url(../images/For_Wes.jpg);
+	/* background: url(../images/For_Wes.jpg); */
 	background-size: cover;
 	z-index: -1
 }
